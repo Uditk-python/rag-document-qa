@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#4F46E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F7"
+textColor = "#1E1E1E"
+font = "sans serif"
+ 
+[server]
+maxUploadSize = 500
+# "none" stops Streamlit's auto-reload file watcher from walking every
+# imported module's path on each run. We don't need hot-reload for this
+# project, and it's what triggers the harmless-but-noisy torchvision
+# import errors from transformers' lazy vision-model submodules (YOLOS,
+# ZoeDepth) that sentence-transformers pulls in but this project never uses.
+fileWatcherType = "none"
+ 

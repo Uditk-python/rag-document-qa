@@ -1,0 +1,22 @@
+Nimbus-4 Weather Drone: Technical Specification Sheet
+
+Overview
+The Nimbus-4 is a fixed-wing autonomous drone designed for atmospheric data collection in agricultural and research applications. It succeeds the Nimbus-3 platform, offering a 40% increase in flight endurance and a redesigned sensor bay supporting hot-swappable payloads.
+
+Flight Performance
+Maximum flight time is 90 minutes on a full battery charge under standard conditions (15°C, no wind). Cruising speed is 45 km/h, with a maximum airspeed of 70 km/h. Operational ceiling is 4,000 meters above sea level, though most agricultural surveys are flown between 50 and 150 meters above ground level. Maximum wind tolerance for safe operation is 35 km/h sustained; gusts above 50 km/h will trigger an automatic return-to-home procedure.
+
+Sensor Payload
+The standard sensor package includes a multispectral camera (5 bands: red, green, blue, red-edge, and near-infrared), a barometric pressure sensor accurate to ±0.1 hPa, and a humidity/temperature sensor rated for -20°C to 60°C operation. Optional add-on payloads include a LiDAR module for terrain mapping and a methane sensor for emissions monitoring, though only one optional payload may be installed at a time due to weight and power constraints.
+
+Battery and Charging
+The Nimbus-4 uses a 6-cell lithium-polymer battery pack rated at 22.2V, 16000mAh. A full charge from empty takes approximately 75 minutes using the included fast charger. The battery is rated for 300 full charge cycles before capacity degrades below 80% of original rating. Batteries should be stored at approximately 50% charge if not used for more than two weeks, per standard LiPo storage guidelines.
+
+Data and Connectivity
+Flight data and sensor readings are logged locally to a removable 128GB microSD card and can also be streamed in real time over a 2.4GHz telemetry link with a range of up to 8km in open terrain. The companion ground control software, NimbusOS, runs on Windows, macOS, and iPadOS, and supports automated mission planning with customizable flight grids for field surveys.
+
+Regulatory Notes
+The Nimbus-4 weighs 2.3kg fully loaded, placing it in a category that requires registration with most national aviation authorities before commercial operation. It does not require a remote ID broadcast module in jurisdictions where the aircraft is flown exclusively within visual line of sight and below 120 meters, but broadcast modules are available as an optional add-on for operators in jurisdictions with stricter requirements.
+
+Warranty
+The Nimbus-4 airframe and electronics are covered by a 2-year limited warranty against manufacturing defects. The battery pack carries a separate 6-month warranty. Damage from crashes, water exposure, or unauthorized modification voids the warranty.

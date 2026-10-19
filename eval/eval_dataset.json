@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How many vacation days do new employees get per year?",
+    "relevant_chunk_ids": ["employee_handbook.txt::p1::c0"],
+    "reference_answer": "Full-time employees accrue 15 days of paid vacation per calendar year during their first three years of employment."
+  },
+  {
+    "question": "Can unused vacation days be carried over to the next year?",
+    "relevant_chunk_ids": ["employee_handbook.txt::p1::c0"],
+    "reference_answer": "Yes, employees may carry over up to 10 unused vacation days into the following year; anything beyond that is forfeited on December 31st."
+  },
+  {
+    "question": "How many days per week can an employee work remotely without special approval?",
+    "relevant_chunk_ids": ["employee_handbook.txt::p1::c0", "employee_handbook.txt::p1::c1"],
+    "reference_answer": "Employees may work remotely up to three days per week with manager approval; fully remote arrangements need Director-level sign-off."
+  },
+  {
+    "question": "What is the daily meal reimbursement limit for business travel?",
+    "relevant_chunk_ids": ["employee_handbook.txt::p1::c1"],
+    "reference_answer": "Meals during business travel are reimbursed up to $75 per day."
+  },
+  {
+    "question": "When do formal performance reviews happen?",
+    "relevant_chunk_ids": ["employee_handbook.txt::p1::c2"],
+    "reference_answer": "Formal performance reviews occur twice yearly, in June and December."
+  },
+  {
+    "question": "What is the maximum flight time of the Nimbus-4 drone?",
+    "relevant_chunk_ids": ["product_spec.txt::p1::c0"],
+    "reference_answer": "Maximum flight time is 90 minutes on a full battery charge under standard conditions."
+  },
+  {
+    "question": "What wind speed triggers the Nimbus-4's automatic return-to-home procedure?",
+    "relevant_chunk_ids": ["product_spec.txt::p1::c0", "product_spec.txt::p1::c1"],
+    "reference_answer": "Gusts above 50 km/h will trigger an automatic return-to-home procedure."
+  },
+  {
+    "question": "How long does it take to fully charge the Nimbus-4's battery?",
+    "relevant_chunk_ids": ["product_spec.txt::p1::c1", "product_spec.txt::p1::c2"],
+    "reference_answer": "A full charge from empty takes approximately 75 minutes using the included fast charger."
+  },
+  {
+    "question": "Does the Nimbus-4 require a remote ID broadcast module?",
+    "relevant_chunk_ids": ["product_spec.txt::p1::c3"],
+    "reference_answer": "It does not require a remote ID broadcast module in jurisdictions where it is flown within visual line of sight and below 120 meters, though the module is available as an optional add-on."
+  },
+  {
+    "question": "How long is the warranty on the Nimbus-4's battery pack?",
+    "relevant_chunk_ids": ["product_spec.txt::p1::c3"],
+    "reference_answer": "The battery pack carries a separate 6-month warranty, distinct from the 2-year warranty on the airframe and electronics."
+  }
+]

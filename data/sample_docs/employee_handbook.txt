@@ -1,0 +1,18 @@
+Acme Robotics Employee Handbook
+
+Section 1: Time Off Policy
+Full-time employees accrue 15 days of paid vacation per calendar year during their first three years of employment. Starting in year four, accrual increases to 20 days per year. Vacation days do not expire at year-end; employees may carry over up to 10 unused days into the following year. Unused days beyond that cap are forfeited on December 31st. Employees must submit vacation requests through the HR portal at least two weeks in advance for any absence longer than three consecutive days.
+
+Sick leave is separate from vacation and is accrued at a rate of 1 day per month worked, up to a maximum of 12 days per year. Sick leave does not carry over between years. Employees experiencing a medical condition requiring more than five consecutive sick days must provide a doctor's note to HR.
+
+Section 2: Remote Work Policy
+Employees may work remotely up to three days per week with manager approval. Fully remote arrangements require Director-level sign-off and are evaluated on a case-by-case basis considering role requirements and team collaboration needs. All remote employees must be reachable during core hours, defined as 10:00 AM to 3:00 PM in their local time zone. Equipment for remote work, including a laptop and monitor, is provided by the company; employees are responsible for maintaining a secure home network.
+
+Section 3: Expense Reimbursement
+Business expenses must be submitted within 30 days of being incurred, through the Expensify system, with itemized receipts attached. Meals during business travel are reimbursed up to $75 per day. Airfare must be booked in economy class for flights under six hours; business class is permitted for longer flights with VP approval. Reimbursements are typically processed within 10 business days of submission.
+
+Section 4: Performance Reviews
+Formal performance reviews occur twice yearly, in June and December. Reviews are conducted by the employee's direct manager and include a self-assessment component that must be submitted at least one week before the review meeting. Compensation adjustments, when applicable, take effect the pay period following the December review cycle. New employees receive an informal 90-day check-in in addition to the standard review cycle.
+
+Section 5: Code of Conduct
+Employees are expected to treat colleagues, clients, and vendors with professionalism and respect at all times. Harassment of any kind will not be tolerated and should be reported immediately to HR or through the anonymous ethics hotline. Conflicts of interest, including outside employment that competes with Acme Robotics' business, must be disclosed to a manager before being undertaken.
